@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_movies">Film</string>
+    <string name="title_tv_shows">Serial Tv</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="duration">Durasi</string>
+    <string name="user_score">User Score</string>
+    <string name="imdb">IMDb</string>
+    <string name="status">Status</string>
+    <string name="release_information">Informasi Rilis</string>
+    <string name="language">Bahasa</string>
+    <string name="genre">Aliran</string>
+    <string name="revenue">Pemasukan</string>
+    <string name="overview">Kilasan Singkat</string>
+    <string name="type">Jenis</string>
+    <string name="released">Rilis</string>
+    <string name="english">Inggris</string>
+    <string name="scripted">Scripted</string>
+</resources>
